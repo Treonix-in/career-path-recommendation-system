@@ -61,7 +61,7 @@ This project is a Career Path Recommendation System built with a React frontend 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/chandima2000/career-path-recommendation-system.git
+    git clone https://github.com/Treonix-in/career-path-recommendation-system.git
     cd career-path-recommendation-system/backend
     ```
 
@@ -110,10 +110,6 @@ This project is a Career Path Recommendation System built with a React frontend 
 4. Provide feedback on the prediction to see the sentiment analysis.
 5. Use the chatbot for custom queries.
 6. Interact with the voice bot for voice commands.
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 
 "# Carrer-Recommendation-System" 
